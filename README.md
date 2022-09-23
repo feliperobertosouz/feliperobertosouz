@@ -17,8 +17,3 @@
 	<img align="right" alt="Fek-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/502585079722278912/949095630880526386/40eba1a496715d8d4e5f4ed0bf7cdbcd.jpg?width=676&height=676">
 </div>
 
-##
-<div> 
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:adventur3gamaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- </div>
