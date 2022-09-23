@@ -14,6 +14,5 @@
 	<img align="center" alt="Fek-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />	
 	<img align="center" alt="Fek-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
 	<img align="center" alt="Fek-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-	<img align="right" alt="Fek-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/502585079722278912/949095630880526386/40eba1a496715d8d4e5f4ed0bf7cdbcd.jpg?width=676&height=676">
-</div>
+
 
