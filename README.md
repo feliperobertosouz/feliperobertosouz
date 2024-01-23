@@ -1,4 +1,4 @@
-## Hello! 👋🏻 I'm Felipe Roberto :3
+## Hello! 👋🏻 I'm Felipe Roberto 
 
 <div>
   </a>
@@ -44,6 +44,8 @@
 🙏🏼Sempre ajudando os outros, além de gostar de ver os outros felizes também acabo aprendendo muito mais ensinando e ajudando do que apenas estudando.
 
 🎛🎛 Atualmente estagiando no [Smart Campus](https://smartcampus.facens.bro), auxiliando na criação de projetos com diferentes tipos de tecnologias IOT, APIs e etc. Já auxiliei na criação de uma API do zero da FACENS usando python, django, docker, grafana e AWS.
+
+☕☕ Viciado em programação Java e Orientada a Objetos
 
 
 
