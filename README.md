@@ -43,10 +43,13 @@
 
 🙏🏼Sempre ajudando os outros, além de gostar de ver os outros felizes também acabo aprendendo muito mais ensinando e ajudando do que apenas estudando.
 
-🎛🎛 Atualmente estagiando no [Smart Campus](https://smartcampus.facens.bro), auxiliando na criação de projetos com diferentes tipos de tecnologias IOT, APIs e etc. Já auxiliei na criação de uma API do zero da FACENS usando python, django, docker, grafana e AWS.
+🎛🎛 Já fui estagiario do [Smart Campus](https://smartcampus.facens.bro), auxiliando na criação de projetos com diferentes tipos de tecnologias IOT, APIs e etc. Já auxiliei na criação de uma API do zero da FACENS usando python, django, docker, grafana e AWS.
+
+😇 Atualmente trabalhando para a [Grupo Splice](https://splice.com.br/), como desenvolvedor Web front e backend.
 
 ☕☕ Viciado em programação Java e Orientada a Objetos
 
+🦆 Programador Skript, aberto a comissões de Plugins de servidor minecraft java
 
 
 </details>
