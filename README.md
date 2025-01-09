@@ -8,9 +8,6 @@
   <!-- <a href="" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a> -->
-  <a href="https://www.linkedin.com/in/felipe-roberto-souza-silva-150aa8237/" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
 </div>
 
 
@@ -37,15 +34,11 @@
 <details open>
 <summary><small>PT-BR</small></summary>
 
-👨‍🎓 Estudante do centro universitario FACENS cursando Analise e Desenvolvimento de sistemas, consegui bolsa de 100% a partir da nota do ENEM, comecei em 2022 e tenho previsão de terminar até 2024.
 
-🧑‍💻 Programador desde 2019, entrei no mundo da programação a partir do curso técnico da etec e la descobri o meu gosto de programar e lógica. Em meu tempo livre estou sempre atrás de programar algo dentro de algum jogo para me divertir e trazer ideias minhas a realidade, um dos meus sonhos é ser desenvolvedor de jogos.
+🧑‍💻 Programador desde 2019, entrei no mundo da programação a partir do curso técnico da etec e la descobri o meu gosto de programar e lógica. Em meu tempo livre estou sempre atrás de programar algo dentro de algum jogo para me divertir e trazer ideias minhas a realidade.
 
 🙏🏼Sempre ajudando os outros, além de gostar de ver os outros felizes também acabo aprendendo muito mais ensinando e ajudando do que apenas estudando.
 
-🎛🎛 Já fui estagiario do [Smart Campus](https://smartcampus.facens.bro), auxiliando na criação de projetos com diferentes tipos de tecnologias IOT, APIs e etc. Já auxiliei na criação de uma API do zero da FACENS usando python, django, docker, grafana e AWS.
-
-😇 Atualmente trabalhando para a [Grupo Splice](https://splice.com.br/), como desenvolvedor Web front e backend.
 
 ☕☕ Viciado em programação Java e Orientada a Objetos
 
