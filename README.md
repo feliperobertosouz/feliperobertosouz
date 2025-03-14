@@ -44,6 +44,9 @@
 
 🦆 Programador Skript, aberto a comissões de Plugins de servidor minecraft java
 
+Fique a vontade para me chamar no discord
+
+siegfek
 
 </details>
 
